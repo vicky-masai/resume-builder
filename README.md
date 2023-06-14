@@ -19,3 +19,7 @@ The Resume Builder Web App is designed to assist individuals in creating outstan
 - User input & show on dom
 - Skills add delete functionality
 - Download as pdf resume
+
+For the online preview use deployed link.
+
+Copyright © reserved: you don't have permision to use my code and any where for that you have to take permission form me.
