@@ -22,4 +22,4 @@ The Resume Builder Web App is designed to assist individuals in creating outstan
 
 For the online preview use deployed link.
 
-Copyright © reserved: you don't have permision to use my code and any where for that you have to take permission form me.
+Copyright Notice: All rights reserved. Permission is required to use my code in any form, and you must obtain explicit permission from me.
